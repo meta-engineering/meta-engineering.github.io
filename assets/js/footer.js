@@ -9,10 +9,8 @@ document.getElementById("footer").innerHTML =
     </div>
     <div class="col s4">
       <h5 class="grey-text text-darken-2">Connect</h5>
-      <!-- <a href=""> <i class="material-icons white-text">Whatsapp</i> </a> -->
-      <!-- <i> <span class="material-icons">mail</span> </i> -->
       <i> <a  class="material-icons grey-text text-darken-3" href="mailto:pellegrino.marco@icloud.com">mail</a> </i>
-      <i> <a  class="material-icons grey-text text-darken-3" href="https://wa.me/393291536801">whatsapp</a> </i>
+      <i> <a  class="material-icons grey-text text-darken-3" href="https://wa.me/393291536801">phone_iphone</a> </i>
       <i> <a  class="material-icons grey-text text-darken-3" href="https://www.linkedin.com/in/mp0110/">work</a> </i>
     </div>
   </div>
